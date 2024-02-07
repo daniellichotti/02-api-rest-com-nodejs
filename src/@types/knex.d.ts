@@ -1,4 +1,6 @@
 // eslint-disable-next-line
+// ou faça apenas:
+// import 'knex'
 
 declare module 'knex/types/tables' {
   export interface Tables {
